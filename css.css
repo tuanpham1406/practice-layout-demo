@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+
+#head {
+    background: blanchedalmond;
+    height: 100px;
+    width: 100%;
+}
+
+#head-link {
+    background: aqua;
+    height: 30px;
+    width: 100%;
+}
+
+#left {
+    background: aquamarine;
+    height: 450px;
+    width: 15%;
+    float: left;
+}
+
+#content {
+    background: aliceblue;
+    height: 450px;
+    width: 60%;
+    float: left;
+}
+
+#right {
+    background: bisque;
+    height: 450px;
+    width: 25%;
+    float: left;
+}
+
+#footer {
+    background: chartreuse;
+    height: 50px;
+    width: 100%;
+    clear: both;
+}
